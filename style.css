@@ -3,7 +3,7 @@ html {
   /* Color of the links BEFORE scroll */
   .navbar-scroll .nav-link,
   .navbar-scroll .navbar-toggler-icon,
-  .navbar-scroll .navbar-brand {
+  .navbar-scroll .navbar-brand 
     color: #262626;
   }
 
@@ -34,3 +34,6 @@ html {
     height: 3.5rem;
   }
 
+  table, th, td {
+    border:1px solid black;
+  }
